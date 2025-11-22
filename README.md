@@ -92,5 +92,7 @@ We provide:
 
 **Website:** https://aeaconsultoria.com.ar  
 **Lead:** @teffytonee95 
-**Email:** soporte@aeaconsultoria.com.ar  
+**Email:** soporte@aeaconsultoria.com.ar
+**Twitter:** https:/x.com/aeaconsultoria_
+
 
